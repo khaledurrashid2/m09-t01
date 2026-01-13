@@ -157,6 +157,32 @@ main > section {
   max-width: 540px;
 }
 
+/* featue section designs */
+.features {
+  gap: 140px;
+}
+
+#feature-section-title {
+  border-left: 8px solid #FF900E;
+  padding-left: 20px;
+}
+
+.feature-card {
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 30px 0 rgba(78, 6, 6, 0.138);
+  margin-bottom: 20px;
+}
+
+.feature-title {
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+
 /* sponsor section designs */
 .sponsor-info {
   max-width: 540px;
